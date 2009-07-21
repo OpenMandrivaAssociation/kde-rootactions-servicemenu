@@ -16,6 +16,7 @@ Source0:	http://www.kde-apps.org/CONTENT/content-files/48411-%{oname}_%{version}
 Patch0:		rootactions-mandriva-kdesu.patch
 BuildRoot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
+BuildRequires:	kde4-macros
 Requires:	kdebase4-workspace
 Obsoletes:	kde_servicemenu_rootactions < %{version}
 
