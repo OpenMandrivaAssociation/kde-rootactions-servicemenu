@@ -2,7 +2,7 @@
 %define name	kde-rootactions-servicemenu
 %define oname	rootactions_servicemenu
 %define version	2.4.3
-%define rel	1
+%define rel	2
 
 Summary:	Root actions for Dolphin context menu
 Name:		%{name}
@@ -19,6 +19,8 @@ BuildArch:	noarch
 BuildRequires:	kde4-macros
 Requires:	kdebase4-workspace
 Obsoletes:	kde_servicemenu_rootactions < %{version}
+Obsoletes:	openasroot-kmenu < 1.0-7
+Provides:	openasroot-kmenu = 1.1
 
 %description
 Root Actions servicemenu provides a convenient way to perform
