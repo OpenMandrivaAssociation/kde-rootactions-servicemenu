@@ -1,8 +1,8 @@
 
 %define name	kde-rootactions-servicemenu
 %define oname	rootactions_servicemenu
-%define version	2.4.3
-%define rel	2
+%define version	2.4.6
+%define rel	1
 
 Summary:	Root actions for Dolphin context menu
 Name:		%{name}
