@@ -48,3 +48,24 @@ filemanager.
 %{_kde_services}/ServiceMenus/11-rootactionsfiles.desktop
 %{_kde_appsdir}/krusader/krusader_rootactions.xml
 
+
+
+%changelog
+* Mon May 28 2012 Andrey Bondrov <abondrov@mandriva.org> 2.7.3-1mdv2012.0
++ Revision: 801007
+- New version 2.7.3, re-diff patch, package Krusader actions (but user must import them from Krusader settings anyway)
+
+  + Oden Eriksson <oeriksson@mandriva.com>
+    - the mass rebuild of 2010.0 packages
+
+  + Juan Luis Baptiste <juancho@mandriva.org>
+    - Updated to 2.4.6.
+
+* Wed Jul 22 2009 Anssi Hannula <anssi@mandriva.org> 2.4.3-2mdv2010.0
++ Revision: 398558
+- obsoletes openasroot-kmenu
+
+* Tue Jul 21 2009 Anssi Hannula <anssi@mandriva.org> 2.4.3-1mdv2010.0
++ Revision: 398438
+- initial Mandriva release
+
