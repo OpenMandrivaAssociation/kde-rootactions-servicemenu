@@ -1,6 +1,6 @@
-diff -urN rootactions_servicemenu_2.7.3/Root_Actions_2.7.3/rootactions-servicemenu.pl rootactions_servicemenu_2.7.3-patched/Root_Actions_2.7.3/rootactions-servicemenu.pl
---- rootactions_servicemenu_2.7.3/Root_Actions_2.7.3/rootactions-servicemenu.pl	2012-03-29 15:53:24.000000000 +1100
-+++ rootactions_servicemenu_2.7.3-patched/Root_Actions_2.7.3/rootactions-servicemenu.pl	2012-05-29 02:40:08.196991043 +1100
+diff -urN rootactions_servicemenu_2.8.1/Root_Actions_2.8.1/rootactions-servicemenu.pl rootactions_servicemenu_2.8.1-patched/Root_Actions_2.8.1/rootactions-servicemenu.pl
+--- rootactions_servicemenu_2.8.1/Root_Actions_2.8.1/rootactions-servicemenu.pl	2012-03-29 15:53:24.000000000 +1100
++++ rootactions_servicemenu_2.8.1-patched/Root_Actions_2.8.1/rootactions-servicemenu.pl	2014-01-31 21:05:11.983893501 +1100
 @@ -856,7 +856,7 @@
  		$KDEGLOBALFILE = "$ENV{KDEHOME}/share/config/kdeglobals";
  	}
