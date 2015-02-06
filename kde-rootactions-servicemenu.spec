@@ -3,7 +3,7 @@
 Summary:	Root actions for Dolphin context menu
 Name:		kde-rootactions-servicemenu
 Version:	2.8.1
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 URL:		http://www.kde-apps.org/content/show.php/?content=48411
