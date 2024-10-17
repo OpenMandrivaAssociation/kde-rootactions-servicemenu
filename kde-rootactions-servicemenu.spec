@@ -9,7 +9,7 @@ Release: %{release}
 License: GPLv2+
 Group: Graphical desktop/KDE
 Summary: Root actions for Dolphin context menu
-Url: http://www.kde-look.org/content/show.php/Root+Actions+Servicemenu?content=48411
+Url: https://www.kde-look.org/content/show.php/Root+Actions+Servicemenu?content=48411
 Source:%{oname}_%version.tar.gz
 BuildRoot: %{_tmppath}/%{oname}-%{version}-%{release}-buildroot
 BuildArch:	noarch
